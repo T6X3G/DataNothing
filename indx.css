@@ -137,3 +137,9 @@ body {
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4a);
     text-decoration: none;
   }
+
+.bysaa {
+  width: 8rem;
+  height: 14rem;
+  border-radius: 8rem;
+}
